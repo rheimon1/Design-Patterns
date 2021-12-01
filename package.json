@@ -1,0 +1,14 @@
+{
+  "name": "Design-Patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rheimon1/Design-Patterns.git",
+  "author": "Wallace Nogueira <wallace.nogueira@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
